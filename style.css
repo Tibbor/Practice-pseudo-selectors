@@ -1,0 +1,22 @@
+body{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-weight: bold;
+}
+p{
+    border-top: 0 px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    margin: 0px;
+    padding: 10px 20px;
+}
+#last-paragraph{
+    border-bottom: 0px;
+}
+p:hover{
+    background-color: brown;
+}
